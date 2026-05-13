@@ -1,0 +1,67 @@
+# Gradle files
+.gradle/
+build/
+.gradle
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Generated files
+bin/
+gen/
+out/
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+*.jks
+*.keystore
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Build outputs
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.aar
+
+# Proguard
+proguard_logs/
+
+# Android Studio cache
+.android/
+
+# IntelliJ IDEA
+*.log
+*.swp
+
+# Miscellaneous
+*.bak
+.classpath
+.project
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Node modules (if any)
+node_modules/
+npm-debug.log
+
+# OS specific files
+Thumbs.db
+.DS_Store
+*.thumbs
+
+# Environment files
+.env
+.env.local
